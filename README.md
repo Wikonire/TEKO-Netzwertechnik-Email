@@ -1,0 +1,3 @@
+Dieses Repository enthält den Projektcode für ein praktisches Übungsprojekt, in dem wir diverse Techniken und Prozesse in der Softwareentwicklung anwenden. Das zentrale Ziel des Projekts war es, wichtige Aspekte der Softwareentwicklung zu veranschaulichen und anzuwenden, einschließlich der Arbeit mit APIs, Verschlüsselung, E-Mail-Kommunikation, Umgebungsvariablen und Versionskontrollsystemen.
+
+Das Hauptmerkmal des Projekts ist eine Python-Anwendung, die geo-koordinatenbasierte Standortdaten abruft, diese Daten verschlüsselt und anschließend per E-Mail sendet. Die Anwendung sucht dann nach der gesendeten E-Mail, entschlüsselt die Nachricht und sendet die entschlüsselten Koordinaten zurück
