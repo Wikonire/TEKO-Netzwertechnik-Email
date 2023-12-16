@@ -7,9 +7,7 @@ import imaplib
 from dotenv import load_dotenv
 import os
 import random
-import traceback
 import time
-from colorama import Fore, init
 
 load_dotenv()  # Lädt die Variablen aus der .env-Datei
 
