@@ -125,8 +125,8 @@ SMTP_SERVER='smtp.gmail.com'
 SMTP_PORT_TLS=587
 SMTP_PORT_SSL=465
 
-ACCOUNT_EMAIL='widmer.nw@gmail.com'
-EMAIL_PASSWORD='RidB!Google6032'
+ACCOUNT_EMAIL='muster.max@gmail.com'
+EMAIL_PASSWORD='DeinPasswort!'
 
 IMAP_SERVER='smtp.gmail.com'
 IMAP_PORT=993
